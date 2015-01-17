@@ -5,8 +5,13 @@
 
 LOGFILE=mirror-linphone-repos.log
 
+# run the mirror script and append the log file
 ./mirror-linphone-repos.sh >> ${LOGFILE} 2>&1
-git add ${LOGFILE}
 
+# refresh the local repo
+git pull
+
+# add the new log file, commit and push
+git add ${LOGFILE}
 git commit -m"Linphone mirror log created at `date`"
 git push origin master
