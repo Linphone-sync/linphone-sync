@@ -1,0 +1,424 @@
+===== Starting to mirror Linphone repositories from the official Belledonne's git servers to GitHub =====
+2015-01-17_13:57:25: Starting to mirror changes from [/opt/src/linphone-sync/antlr3.git] repository
+2015-01-17_13:57:25: Fetching remote changes from [git://git.linphone.org/antlr3.git]
+2015-01-17_13:57:26: Pushing changes (--mirror) to [git@github.com:Linphone-sync/antlr3.git]
+To git@github.com:Linphone-sync/antlr3.git
+ * [new branch]      linphone -> linphone
+ * [new branch]      master -> master
+ * [new tag]         3.5 -> 3.5
+ * [new tag]         antlr-3.4 -> antlr-3.4
+ * [new tag]         antlr-3.5 -> antlr-3.5
+ * [new tag]         antlr-3.5-rc-1 -> antlr-3.5-rc-1
+ * [new tag]         antlr-3.5-rc-2 -> antlr-3.5-rc-2
+2015-01-17_13:57:31: [/opt/src/linphone-sync/antlr3.git] mirror has been finished
+2015-01-17_13:57:31: Starting to mirror changes from [/opt/src/linphone-sync/axmlrpc.git] repository
+2015-01-17_13:57:31: Fetching remote changes from [git://git.linphone.org/axmlrpc.git]
+2015-01-17_13:57:31: Pushing changes (--mirror) to [git@github.com:Linphone-sync/axmlrpc.git]
+To git@github.com:Linphone-sync/axmlrpc.git
+ * [new branch]      master -> master
+2015-01-17_13:57:33: [/opt/src/linphone-sync/axmlrpc.git] mirror has been finished
+2015-01-17_13:57:33: Starting to mirror changes from [/opt/src/linphone-sync/bcg729.git] repository
+2015-01-17_13:57:33: Fetching remote changes from [git://git.linphone.org/bcg729.git]
+2015-01-17_13:57:33: Pushing changes (--mirror) to [git@github.com:Linphone-sync/bcg729.git]
+To git@github.com:Linphone-sync/bcg729.git
+ * [new branch]      master -> master
+ * [new branch]      github/master -> github/master
+2015-01-17_13:57:35: [/opt/src/linphone-sync/bcg729.git] mirror has been finished
+2015-01-17_13:57:35: Starting to mirror changes from [/opt/src/linphone-sync/belle-sip.git] repository
+2015-01-17_13:57:35: Fetching remote changes from [git://git.linphone.org/belle-sip]
+2015-01-17_13:57:35: Pushing changes (--mirror) to [git@github.com:Linphone-sync/belle-sip.git]
+To git@github.com:Linphone-sync/belle-sip.git
+ * [new branch]      Bbox.phone -> Bbox.phone
+ * [new branch]      dev_attributes_parsing -> dev_attributes_parsing
+ * [new branch]      dev_http -> dev_http
+ * [new branch]      dev_resolver -> dev_resolver
+ * [new branch]      dev_win32 -> dev_win32
+ * [new branch]      master -> master
+ * [new branch]      refs/original/refs/heads/master -> refs/original/refs/heads/master
+ * [new branch]      refs/original/refs/remotes/origin/Bbox.phone -> refs/original/refs/remotes/origin/Bbox.phone
+ * [new branch]      refs/original/refs/remotes/origin/dev_resolver -> refs/original/refs/remotes/origin/dev_resolver
+ * [new branch]      refs/original/refs/remotes/origin/dev_win32 -> refs/original/refs/remotes/origin/dev_win32
+ * [new branch]      refs/original/refs/remotes/origin/master -> refs/original/refs/remotes/origin/master
+ * [new branch]      github/Bbox.phone -> github/Bbox.phone
+ * [new branch]      github/dev_attributes_parsing -> github/dev_attributes_parsing
+ * [new branch]      github/dev_http -> github/dev_http
+ * [new branch]      github/dev_resolver -> github/dev_resolver
+ * [new branch]      github/dev_win32 -> github/dev_win32
+ * [new branch]      github/master -> github/master
+ * [new branch]      origin/Bbox.phone -> origin/Bbox.phone
+ * [new branch]      origin/HEAD -> origin/HEAD
+ * [new branch]      origin/dev_resolver -> origin/dev_resolver
+ * [new branch]      origin/dev_win32 -> origin/dev_win32
+ * [new branch]      origin/master -> origin/master
+ * [new tag]         1.3.0 -> 1.3.0
+ * [new tag]         1.3.3 -> 1.3.3
+2015-01-17_13:57:38: [/opt/src/linphone-sync/belle-sip.git] mirror has been finished
+2015-01-17_13:57:38: Starting to mirror changes from [/opt/src/linphone-sync/bzrtp.git] repository
+2015-01-17_13:57:38: Fetching remote changes from [git://git.linphone.org/bzrtp.git]
+2015-01-17_13:57:38: Pushing changes (--mirror) to [git@github.com:Linphone-sync/bzrtp.git]
+To git@github.com:Linphone-sync/bzrtp.git
+ * [new branch]      master -> master
+2015-01-17_13:57:40: [/opt/src/linphone-sync/bzrtp.git] mirror has been finished
+2015-01-17_13:57:40: Starting to mirror changes from [/opt/src/linphone-sync/cunit.git] repository
+2015-01-17_13:57:40: Fetching remote changes from [git://git.linphone.org/cunit.git]
+2015-01-17_13:57:40: Pushing changes (--mirror) to [git@github.com:Linphone-sync/cunit.git]
+To git@github.com:Linphone-sync/cunit.git
+ * [new branch]      linphone -> linphone
+ * [new branch]      master -> master
+ * [new branch]      mingw64 -> mingw64
+ * [new branch]      svn/trunk -> svn/trunk
+2015-01-17_13:57:42: [/opt/src/linphone-sync/cunit.git] mirror has been finished
+2015-01-17_13:57:42: Starting to mirror changes from [/opt/src/linphone-sync/gsm.git] repository
+2015-01-17_13:57:42: Fetching remote changes from [git://git.linphone.org/gsm.git]
+2015-01-17_13:57:42: Pushing changes (--mirror) to [git@github.com:Linphone-sync/gsm.git]
+To git@github.com:Linphone-sync/gsm.git
+ * [new branch]      linphone -> linphone
+ * [new branch]      master -> master
+2015-01-17_13:57:44: [/opt/src/linphone-sync/gsm.git] mirror has been finished
+2015-01-17_13:57:44: Starting to mirror changes from [/opt/src/linphone-sync/libilbc-rfc3951.git] repository
+2015-01-17_13:57:44: Fetching remote changes from [git://git.linphone.org/libilbc-rfc3951.git]
+2015-01-17_13:57:44: Pushing changes (--mirror) to [git@github.com:Linphone-sync/libilbc-rfc3951.git]
+To git@github.com:Linphone-sync/libilbc-rfc3951.git
+ * [new branch]      debian -> debian
+ * [new branch]      master -> master
+ * [new branch]      pristine-tar -> pristine-tar
+ * [new branch]      upstream -> upstream
+ * [new tag]         debian/0.5-1 -> debian/0.5-1
+ * [new tag]         debian/0.6-1 -> debian/0.6-1
+ * [new tag]         debian/0.6-2 -> debian/0.6-2
+ * [new tag]         upstream/0.5 -> upstream/0.5
+ * [new tag]         upstream/0.6 -> upstream/0.6
+2015-01-17_13:57:47: [/opt/src/linphone-sync/libilbc-rfc3951.git] mirror has been finished
+2015-01-17_13:57:47: Starting to mirror changes from [/opt/src/linphone-sync/linphone-android.git] repository
+2015-01-17_13:57:47: Fetching remote changes from [git://git.linphone.org/linphone-android.git]
+2015-01-17_13:57:47: Pushing changes (--mirror) to [git@github.com:Linphone-sync/linphone-android.git]
+To git@github.com:Linphone-sync/linphone-android.git
+ * [new branch]      1.X -> 1.X
+ * [new branch]      2.1.X -> 2.1.X
+ * [new branch]      cleaning -> cleaning
+ * [new branch]      dev_bzrtp -> dev_bzrtp
+ * [new branch]      dev_opus -> dev_opus
+ * [new branch]      dev_send_msg -> dev_send_msg
+ * [new branch]      dev_settings -> dev_settings
+ * [new branch]      extbj -> extbj
+ * [new branch]      fix_registrarion_listener -> fix_registrarion_listener
+ * [new branch]      master -> master
+ * [new branch]      newUI -> newUI
+ * [new branch]      status-bar -> status-bar
+ * [new branch]      store -> store
+ * [new branch]      tablet -> tablet
+ * [new branch]      useragent -> useragent
+ * [new branch]      github/1.X -> github/1.X
+ * [new branch]      github/2.1.X -> github/2.1.X
+ * [new branch]      github/cleaning -> github/cleaning
+ * [new branch]      github/dev_bzrtp -> github/dev_bzrtp
+ * [new branch]      github/dev_opus -> github/dev_opus
+ * [new branch]      github/dev_send_msg -> github/dev_send_msg
+ * [new branch]      github/dev_settings -> github/dev_settings
+ * [new branch]      github/extbj -> github/extbj
+ * [new branch]      github/fix_registrarion_listener -> github/fix_registrarion_listener
+ * [new branch]      github/master -> github/master
+ * [new branch]      github/newUI -> github/newUI
+ * [new branch]      github/status-bar -> github/status-bar
+ * [new branch]      github/store -> github/store
+ * [new branch]      github/tablet -> github/tablet
+ * [new branch]      github/useragent -> github/useragent
+ * [new tag]         1.0 -> 1.0
+ * [new tag]         1.0.10 -> 1.0.10
+ * [new tag]         1.0.11 -> 1.0.11
+ * [new tag]         1.0.13 -> 1.0.13
+ * [new tag]         1.0.14 -> 1.0.14
+ * [new tag]         1.0.15 -> 1.0.15
+ * [new tag]         1.04 -> 1.04
+ * [new tag]         1.06 -> 1.06
+ * [new tag]         1.07 -> 1.07
+ * [new tag]         1.1.0 -> 1.1.0
+ * [new tag]         1.1.3 -> 1.1.3
+ * [new tag]         1.1.4 -> 1.1.4
+ * [new tag]         1.1.5 -> 1.1.5
+ * [new tag]         1.1.6 -> 1.1.6
+ * [new tag]         1.16 -> 1.16
+ * [new tag]         1.2.0 -> 1.2.0
+ * [new tag]         1.2.2 -> 1.2.2
+ * [new tag]         1.2.2.1 -> 1.2.2.1
+ * [new tag]         1.2.2.2 -> 1.2.2.2
+ * [new tag]         1.3 -> 1.3
+ * [new tag]         1.3.1 -> 1.3.1
+ * [new tag]         1.3.2 -> 1.3.2
+ * [new tag]         2.0.0 -> 2.0.0
+ * [new tag]         2.0.1 -> 2.0.1
+ * [new tag]         2.0.2 -> 2.0.2
+ * [new tag]         2.0.3 -> 2.0.3
+ * [new tag]         2.0.3-1 -> 2.0.3-1
+ * [new tag]         2.1 -> 2.1
+ * [new tag]         2.1.1 -> 2.1.1
+ * [new tag]         2.1.2 -> 2.1.2
+ * [new tag]         2.2.0 -> 2.2.0
+ * [new tag]         2.2.0.1 -> 2.2.0.1
+ * [new tag]         2.2.0.2 -> 2.2.0.2
+ * [new tag]         2.2.1 -> 2.2.1
+ * [new tag]         2.2.1.1 -> 2.2.1.1
+ * [new tag]         2.3 -> 2.3
+ * [new tag]         2.3.1 -> 2.3.1
+ * [new tag]         2.3.2 -> 2.3.2
+ * [new tag]         v1.2.1 -> v1.2.1
+2015-01-17_13:57:54: [/opt/src/linphone-sync/linphone-android.git] mirror has been finished
+2015-01-17_13:57:54: Starting to mirror changes from [/opt/src/linphone-sync/linphone.git] repository
+2015-01-17_13:57:54: Fetching remote changes from [git://git.linphone.org/linphone.git]
+2015-01-17_13:57:54: Pushing changes (--mirror) to [git@github.com:Linphone-sync/linphone.git]
+To git@github.com:Linphone-sync/linphone.git
+ * [new branch]      3.6.x -> 3.6.x
+ * [new branch]      dev_bzrtp -> dev_bzrtp
+ * [new branch]      dev_dtls -> dev_dtls
+ * [new branch]      dev_filetransfer -> dev_filetransfer
+ * [new branch]      dev_payloadtypematch -> dev_payloadtypematch
+ * [new branch]      dev_rtp_transport_modifier -> dev_rtp_transport_modifier
+ * [new branch]      linphone-android-1.x -> linphone-android-1.x
+ * [new branch]      linphone-iphone-1.x -> linphone-iphone-1.x
+ * [new branch]      master -> master
+ * [new branch]      stable_android_120618 -> stable_android_120618
+ * [new branch]      validsip -> validsip
+ * [new branch]      github/3.6.x -> github/3.6.x
+ * [new branch]      github/cross-test -> github/cross-test
+ * [new branch]      github/dev_bt_session_version -> github/dev_bt_session_version
+ * [new branch]      github/dev_bzrtp -> github/dev_bzrtp
+ * [new branch]      github/dev_dtls -> github/dev_dtls
+ * [new branch]      github/dev_filetransfer -> github/dev_filetransfer
+ * [new branch]      github/dev_gtk_new_ui -> github/dev_gtk_new_ui
+ * [new branch]      github/dev_gtkvideo -> github/dev_gtkvideo
+ * [new branch]      github/dev_ice -> github/dev_ice
+ * [new branch]      github/dev_opus -> github/dev_opus
+ * [new branch]      github/dev_payloadtypematch -> github/dev_payloadtypematch
+ * [new branch]      github/dev_python -> github/dev_python
+ * [new branch]      github/dev_rtp_transport_modifier -> github/dev_rtp_transport_modifier
+ * [new branch]      github/ldap -> github/ldap
+ * [new branch]      github/linphone-android-1.x -> github/linphone-android-1.x
+ * [new branch]      github/linphone-iphone-1.x -> github/linphone-iphone-1.x
+ * [new branch]      github/master -> github/master
+ * [new branch]      github/stable_android_120618 -> github/stable_android_120618
+ * [new branch]      github/upnp -> github/upnp
+ * [new branch]      github/validsip -> github/validsip
+ * [new branch]      github/wizard -> github/wizard
+ * [new tag]         2010-03-04 -> 2010-03-04
+ * [new tag]         3.4.0 -> 3.4.0
+ * [new tag]         3.4.1 -> 3.4.1
+ * [new tag]         3.4.2 -> 3.4.2
+ * [new tag]         3.4.3 -> 3.4.3
+ * [new tag]         3.5.0 -> 3.5.0
+ * [new tag]         3.5.1-1 -> 3.5.1-1
+ * [new tag]         3.5.2 -> 3.5.2
+ * [new tag]         3.6.0 -> 3.6.0
+ * [new tag]         3.6.1 -> 3.6.1
+ * [new tag]         3.6.99 -> 3.6.99
+ * [new tag]         3.7.0 -> 3.7.0
+ * [new tag]         corusquante-0.1 -> corusquante-0.1
+ * [new tag]         corusquante-0.2 -> corusquante-0.2
+ * [new tag]         corusquante-0.3 -> corusquante-0.3
+ * [new tag]         corusquante-3g -> corusquante-3g
+ * [new tag]         iphone-3.2.1.1 -> iphone-3.2.1.1
+ * [new tag]         iphone-3.2.1.3 -> iphone-3.2.1.3
+ * [new tag]         iphone-3.2.1.4 -> iphone-3.2.1.4
+ * [new tag]         iphone-3.2.1.5 -> iphone-3.2.1.5
+ * [new tag]         iphone-3.2.12 -> iphone-3.2.12
+2015-01-17_13:58:02: [/opt/src/linphone-sync/linphone.git] mirror has been finished
+2015-01-17_13:58:02: Starting to mirror changes from [/opt/src/linphone-sync/linphone-iphone.git] repository
+2015-01-17_13:58:02: Fetching remote changes from [git://git.linphone.org/linphone-iphone.git]
+2015-01-17_13:58:02: Pushing changes (--mirror) to [git@github.com:Linphone-sync/linphone-iphone.git]
+To git@github.com:Linphone-sync/linphone-iphone.git
+ * [new branch]      1.0.3 -> 1.0.3
+ * [new branch]      2.0.x -> 2.0.x
+ * [new branch]      apple_store -> apple_store
+ * [new branch]      bassboost -> bassboost
+ * [new branch]      branch_1.x -> branch_1.x
+ * [new branch]      dev_sendmsg -> dev_sendmsg
+ * [new branch]      master -> master
+ * [new branch]      new_ui -> new_ui
+ * [new branch]      subliminal -> subliminal
+ * [new branch]      github/1.0.3 -> github/1.0.3
+ * [new branch]      github/2.0.x -> github/2.0.x
+ * [new branch]      github/apple_store -> github/apple_store
+ * [new branch]      github/bassboost -> github/bassboost
+ * [new branch]      github/branch_1.x -> github/branch_1.x
+ * [new branch]      github/dev_sendmsg -> github/dev_sendmsg
+ * [new branch]      github/linphone -> github/linphone
+ * [new branch]      github/master -> github/master
+ * [new branch]      github/new_ui -> github/new_ui
+ * [new branch]      github/notif -> github/notif
+ * [new branch]      github/public -> github/public
+ * [new branch]      github/subliminal -> github/subliminal
+ * [new tag]         1.0.0 -> 1.0.0
+ * [new tag]         1.0.5 -> 1.0.5
+ * [new tag]         1.0.6 -> 1.0.6
+ * [new tag]         1.0.7 -> 1.0.7
+ * [new tag]         1.1 -> 1.1
+ * [new tag]         1.1.1 -> 1.1.1
+ * [new tag]         1.3 -> 1.3
+ * [new tag]         2.0 -> 2.0
+ * [new tag]         2.0.1 -> 2.0.1
+ * [new tag]         2.0.2 -> 2.0.2
+ * [new tag]         2.0.2-1 -> 2.0.2-1
+ * [new tag]         2.0.2-store -> 2.0.2-store
+ * [new tag]         2.0.3 -> 2.0.3
+ * [new tag]         2.0.3-store -> 2.0.3-store
+ * [new tag]         2.0.4-store -> 2.0.4-store
+ * [new tag]         2.1 -> 2.1
+ * [new tag]         2.1.1 -> 2.1.1
+ * [new tag]         2.1.2 -> 2.1.2
+ * [new tag]         2.1.2-store -> 2.1.2-store
+ * [new tag]         2.2 -> 2.2
+ * [new tag]         2.2-store -> 2.2-store
+ * [new tag]         2.2.1-store -> 2.2.1-store
+ * [new tag]         2.2.2 -> 2.2.2
+ * [new tag]         2.2.2-store -> 2.2.2-store
+ * [new tag]         2.2.3 -> 2.2.3
+ * [new tag]         2.2.3-store -> 2.2.3-store
+ * [new tag]         2010-03-04 -> 2010-03-04
+ * [new tag]         enable-3g -> enable-3g
+ * [new tag]         help -> help
+ * [new tag]         info -> info
+ * [new tag]         v0.7.6 -> v0.7.6
+2015-01-17_13:58:11: [/opt/src/linphone-sync/linphone-iphone.git] mirror has been finished
+2015-01-17_13:58:11: Starting to mirror changes from [/opt/src/linphone-sync/mediastreamer2.git] repository
+2015-01-17_13:58:11: Fetching remote changes from [git://git.linphone.org/mediastreamer2.git]
+2015-01-17_13:58:11: Pushing changes (--mirror) to [git@github.com:Linphone-sync/mediastreamer2.git]
+To git@github.com:Linphone-sync/mediastreamer2.git
+ * [new branch]      dev_avpf -> dev_avpf
+ * [new branch]      dev_callrecording -> dev_callrecording
+ * [new branch]      dev_dtls -> dev_dtls
+ * [new branch]      dev_ice -> dev_ice
+ * [new branch]      dev_opensles_android -> dev_opensles_android
+ * [new branch]      dev_opus -> dev_opus
+ * [new branch]      dev_rtp_transport_modifier -> dev_rtp_transport_modifier
+ * [new branch]      dev_videomac -> dev_videomac
+ * [new branch]      encoder_native_format -> encoder_native_format
+ * [new branch]      interrupt -> interrupt
+ * [new branch]      linphone-android-1.x -> linphone-android-1.x
+ * [new branch]      linphone-iphone-1.x -> linphone-iphone-1.x
+ * [new branch]      master -> master
+ * [new branch]      new_adaptive_algorithm -> new_adaptive_algorithm
+ * [new branch]      upnp -> upnp
+ * [new branch]      github/dev_avpf -> github/dev_avpf
+ * [new branch]      github/dev_callrecording -> github/dev_callrecording
+ * [new branch]      github/dev_dtls -> github/dev_dtls
+ * [new branch]      github/dev_ice -> github/dev_ice
+ * [new branch]      github/dev_opensles_android -> github/dev_opensles_android
+ * [new branch]      github/dev_opus -> github/dev_opus
+ * [new branch]      github/dev_rtp_transport_modifier -> github/dev_rtp_transport_modifier
+ * [new branch]      github/dev_videomac -> github/dev_videomac
+ * [new branch]      github/encoder_native_format -> github/encoder_native_format
+ * [new branch]      github/interrupt -> github/interrupt
+ * [new branch]      github/linphone-android-1.x -> github/linphone-android-1.x
+ * [new branch]      github/linphone-iphone-1.x -> github/linphone-iphone-1.x
+ * [new branch]      github/master -> github/master
+ * [new branch]      github/new_adaptive_algorithm -> github/new_adaptive_algorithm
+ * [new branch]      github/upnp -> github/upnp
+ * [new tag]         2.10.0 -> 2.10.0
+ * [new tag]         2.7.0 -> 2.7.0
+ * [new tag]         2.7.3 -> 2.7.3
+ * [new tag]         2.8.0 -> 2.8.0
+ * [new tag]         2.8.1 -> 2.8.1
+ * [new tag]         2.8.2 -> 2.8.2
+ * [new tag]         2.9.0 -> 2.9.0
+ * [new tag]         2.9.1 -> 2.9.1
+2015-01-17_13:58:20: [/opt/src/linphone-sync/mediastreamer2.git] mirror has been finished
+2015-01-17_13:58:20: Starting to mirror changes from [/opt/src/linphone-sync/msamr.git] repository
+2015-01-17_13:58:20: Fetching remote changes from [git://git.linphone.org/msamr.git]
+2015-01-17_13:58:20: Pushing changes (--mirror) to [git@github.com:Linphone-sync/msamr.git]
+To git@github.com:Linphone-sync/msamr.git
+ * [new branch]      master -> master
+2015-01-17_13:58:22: [/opt/src/linphone-sync/msamr.git] mirror has been finished
+2015-01-17_13:58:22: Starting to mirror changes from [/opt/src/linphone-sync/msilbc.git] repository
+2015-01-17_13:58:22: Fetching remote changes from [git://git.linphone.org/msilbc.git]
+2015-01-17_13:58:22: Pushing changes (--mirror) to [git@github.com:Linphone-sync/msilbc.git]
+To git@github.com:Linphone-sync/msilbc.git
+ * [new branch]      debian -> debian
+ * [new branch]      master -> master
+ * [new branch]      pristine-tar -> pristine-tar
+ * [new branch]      upstream -> upstream
+ * [new tag]         debian/2.0.2-1 -> debian/2.0.2-1
+ * [new tag]         debian/2.0.3-1 -> debian/2.0.3-1
+ * [new tag]         upstream/2.0.1 -> upstream/2.0.1
+ * [new tag]         upstream/2.0.2 -> upstream/2.0.2
+ * [new tag]         upstream/2.0.3 -> upstream/2.0.3
+2015-01-17_13:58:24: [/opt/src/linphone-sync/msilbc.git] mirror has been finished
+2015-01-17_13:58:24: Starting to mirror changes from [/opt/src/linphone-sync/msopenh264.git] repository
+2015-01-17_13:58:24: Fetching remote changes from [git://git.linphone.org/msopenh264.git]
+2015-01-17_13:58:24: Pushing changes (--mirror) to [git@github.com:Linphone-sync/msopenh264.git]
+To git@github.com:Linphone-sync/msopenh264.git
+ * [new branch]      master -> master
+2015-01-17_13:58:26: [/opt/src/linphone-sync/msopenh264.git] mirror has been finished
+2015-01-17_13:58:26: Starting to mirror changes from [/opt/src/linphone-sync/mssilk.git] repository
+2015-01-17_13:58:26: Fetching remote changes from [git://git.linphone.org/mssilk.git]
+2015-01-17_13:58:26: Pushing changes (--mirror) to [git@github.com:Linphone-sync/mssilk.git]
+To git@github.com:Linphone-sync/mssilk.git
+ * [new branch]      master -> master
+2015-01-17_13:58:28: [/opt/src/linphone-sync/mssilk.git] mirror has been finished
+2015-01-17_13:58:28: Starting to mirror changes from [/opt/src/linphone-sync/mswebrtc.git] repository
+2015-01-17_13:58:28: Fetching remote changes from [git://git.linphone.org/mswebrtc.git]
+2015-01-17_13:58:29: Pushing changes (--mirror) to [git@github.com:Linphone-sync/mswebrtc.git]
+To git@github.com:Linphone-sync/mswebrtc.git
+ * [new branch]      master -> master
+2015-01-17_13:58:30: [/opt/src/linphone-sync/mswebrtc.git] mirror has been finished
+2015-01-17_13:58:30: Starting to mirror changes from [/opt/src/linphone-sync/msx264.git] repository
+2015-01-17_13:58:30: Fetching remote changes from [git://git.linphone.org/msx264.git]
+2015-01-17_13:58:30: Pushing changes (--mirror) to [git@github.com:Linphone-sync/msx264.git]
+To git@github.com:Linphone-sync/msx264.git
+ * [new branch]      master -> master
+2015-01-17_13:58:32: [/opt/src/linphone-sync/msx264.git] mirror has been finished
+2015-01-17_13:58:32: Starting to mirror changes from [/opt/src/linphone-sync/ortp.git] repository
+2015-01-17_13:58:32: Fetching remote changes from [git://git.linphone.org/ortp.git]
+2015-01-17_13:58:32: Pushing changes (--mirror) to [git@github.com:Linphone-sync/oRTP.git]
+To git@github.com:Linphone-sync/oRTP.git
+ * [new branch]      dev_bzrtp -> dev_bzrtp
+ * [new branch]      dev_dtls -> dev_dtls
+ * [new branch]      dev_ice -> dev_ice
+ * [new branch]      dev_opus -> dev_opus
+ * [new branch]      dev_packet_duplication -> dev_packet_duplication
+ * [new branch]      dev_rtp_transport_modifier -> dev_rtp_transport_modifier
+ * [new branch]      master -> master
+ * [new branch]      github/dev_bzrtp -> github/dev_bzrtp
+ * [new branch]      github/dev_dtls -> github/dev_dtls
+ * [new branch]      github/dev_ice -> github/dev_ice
+ * [new branch]      github/dev_opus -> github/dev_opus
+ * [new branch]      github/dev_packet_duplication -> github/dev_packet_duplication
+ * [new branch]      github/dev_rtp_transport_modifier -> github/dev_rtp_transport_modifier
+ * [new branch]      github/master -> github/master
+ * [new tag]         0.16.5 -> 0.16.5
+ * [new tag]         0.18.0 -> 0.18.0
+ * [new tag]         0.19.0 -> 0.19.0
+ * [new tag]         0.20.0 -> 0.20.0
+ * [new tag]         0.21 -> 0.21
+ * [new tag]         0.21.1 -> 0.21.1
+ * [new tag]         0.22.0 -> 0.22.0
+2015-01-17_13:58:37: [/opt/src/linphone-sync/ortp.git] mirror has been finished
+2015-01-17_13:58:37: Starting to mirror changes from [/opt/src/linphone-sync/polarssl.git] repository
+2015-01-17_13:58:37: Fetching remote changes from [git://git.linphone.org/polarssl.git]
+2015-01-17_13:58:37: Pushing changes (--mirror) to [git@github.com:Linphone-sync/polarssl.git]
+To git@github.com:Linphone-sync/polarssl.git
+ * [new branch]      linphone-1.2_deprecated -> linphone-1.2_deprecated
+ * [new branch]      linphone-1.3.4 -> linphone-1.3.4
+ * [new branch]      linphone-1.4 -> linphone-1.4
+ * [new branch]      master -> master
+ * [new branch]      polarssl-1.2 -> polarssl-1.2
+ * [new branch]      polarssl-1.4 -> polarssl-1.4
+2015-01-17_13:58:41: [/opt/src/linphone-sync/polarssl.git] mirror has been finished
+2015-01-17_13:58:41: Starting to mirror changes from [/opt/src/linphone-sync/speex.git] repository
+2015-01-17_13:58:41: Fetching remote changes from [git://git.linphone.org/speex.git]
+2015-01-17_13:58:41: Pushing changes (--mirror) to [git@github.com:Linphone-sync/speex.git]
+To git@github.com:Linphone-sync/speex.git
+ * [new branch]      linphone -> linphone
+ * [new branch]      tmp_pe -> tmp_pe
+2015-01-17_13:58:45: [/opt/src/linphone-sync/speex.git] mirror has been finished
+2015-01-17_13:58:45: Starting to mirror changes from [/opt/src/linphone-sync/srtp.git] repository
+2015-01-17_13:58:45: Fetching remote changes from [git://git.linphone.org/srtp.git]
+2015-01-17_13:58:45: Pushing changes (--mirror) to [git@github.com:Linphone-sync/srtp.git]
+Everything up-to-date
+2015-01-17_13:58:46: [/opt/src/linphone-sync/srtp.git] mirror has been finished
+2015-01-17_13:58:46: Starting to mirror changes from [/opt/src/linphone-sync/webrtc.git] repository
+2015-01-17_13:58:46: Fetching remote changes from [git://git.linphone.org/webrtc.git]
+2015-01-17_13:58:46: Pushing changes (--mirror) to [git@github.com:Linphone-sync/webrtc.git]
+To git@github.com:Linphone-sync/webrtc.git
+ * [new branch]      linphone -> linphone
+ * [new branch]      master -> master
+2015-01-17_13:58:49: [/opt/src/linphone-sync/webrtc.git] mirror has been finished
+2015-01-17_13:58:49: ===== Changes have been pushed to GitHub successfully =====
