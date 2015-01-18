@@ -5155,3 +5155,4 @@ Everything up-to-date
 Everything up-to-date
 2015-01-17_23:30:34: [/opt/src/linphone-sync/webrtc.git] mirror has been finished
 2015-01-17_23:30:34: ===== Changes have been pushed to GitHub successfully =====
+2015-01-18_00:13:38: Usage: ./mirror-linphone-repos.sh local_linphone_sync_path
