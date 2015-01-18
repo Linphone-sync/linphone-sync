@@ -16043,3 +16043,120 @@ Everything up-to-date
 Everything up-to-date
 2015-01-18_23:00:42: [/home/linphone-sync-bot/linphone-sync/webrtc.git] mirror has been finished
 2015-01-18_23:00:42: ===== Changes have been pushed to GitHub successfully =====
+===== Starting to mirror Linphone repositories from the official Belledonne's git servers to GitHub =====
+2015-01-18_23:15:01: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/antlr3.git] repository
+2015-01-18_23:15:01: Fetching remote changes from [git://git.linphone.org/antlr3.git]
+2015-01-18_23:15:01: Pushing changes (--mirror) to [git@github.com:Linphone-sync/antlr3.git]
+Everything up-to-date
+2015-01-18_23:15:05: [/home/linphone-sync-bot/linphone-sync/antlr3.git] mirror has been finished
+2015-01-18_23:15:05: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/axmlrpc.git] repository
+2015-01-18_23:15:05: Fetching remote changes from [git://git.linphone.org/axmlrpc.git]
+2015-01-18_23:15:05: Pushing changes (--mirror) to [git@github.com:Linphone-sync/axmlrpc.git]
+Everything up-to-date
+2015-01-18_23:15:07: [/home/linphone-sync-bot/linphone-sync/axmlrpc.git] mirror has been finished
+2015-01-18_23:15:07: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/bcg729.git] repository
+2015-01-18_23:15:07: Fetching remote changes from [git://git.linphone.org/bcg729.git]
+2015-01-18_23:15:07: Pushing changes (--mirror) to [git@github.com:Linphone-sync/bcg729.git]
+Everything up-to-date
+2015-01-18_23:15:08: [/home/linphone-sync-bot/linphone-sync/bcg729.git] mirror has been finished
+2015-01-18_23:15:08: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/belle-sip.git] repository
+2015-01-18_23:15:08: Fetching remote changes from [git://git.linphone.org/belle-sip]
+2015-01-18_23:15:08: Pushing changes (--mirror) to [git@github.com:Linphone-sync/belle-sip.git]
+Everything up-to-date
+2015-01-18_23:15:09: [/home/linphone-sync-bot/linphone-sync/belle-sip.git] mirror has been finished
+2015-01-18_23:15:09: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/bzrtp.git] repository
+2015-01-18_23:15:09: Fetching remote changes from [git://git.linphone.org/bzrtp.git]
+2015-01-18_23:15:09: Pushing changes (--mirror) to [git@github.com:Linphone-sync/bzrtp.git]
+Everything up-to-date
+2015-01-18_23:15:10: [/home/linphone-sync-bot/linphone-sync/bzrtp.git] mirror has been finished
+2015-01-18_23:15:10: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/cunit.git] repository
+2015-01-18_23:15:10: Fetching remote changes from [git://git.linphone.org/cunit.git]
+2015-01-18_23:15:10: Pushing changes (--mirror) to [git@github.com:Linphone-sync/cunit.git]
+Everything up-to-date
+2015-01-18_23:15:12: [/home/linphone-sync-bot/linphone-sync/cunit.git] mirror has been finished
+2015-01-18_23:15:12: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/gsm.git] repository
+2015-01-18_23:15:12: Fetching remote changes from [git://git.linphone.org/gsm.git]
+2015-01-18_23:15:12: Pushing changes (--mirror) to [git@github.com:Linphone-sync/gsm.git]
+Everything up-to-date
+2015-01-18_23:15:13: [/home/linphone-sync-bot/linphone-sync/gsm.git] mirror has been finished
+2015-01-18_23:15:13: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/libilbc-rfc3951.git] repository
+2015-01-18_23:15:13: Fetching remote changes from [git://git.linphone.org/libilbc-rfc3951.git]
+2015-01-18_23:15:13: Pushing changes (--mirror) to [git@github.com:Linphone-sync/libilbc-rfc3951.git]
+Everything up-to-date
+2015-01-18_23:15:14: [/home/linphone-sync-bot/linphone-sync/libilbc-rfc3951.git] mirror has been finished
+2015-01-18_23:15:14: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/linphone-android.git] repository
+2015-01-18_23:15:14: Fetching remote changes from [git://git.linphone.org/linphone-android.git]
+2015-01-18_23:15:14: Pushing changes (--mirror) to [git@github.com:Linphone-sync/linphone-android.git]
+Everything up-to-date
+2015-01-18_23:15:15: [/home/linphone-sync-bot/linphone-sync/linphone-android.git] mirror has been finished
+2015-01-18_23:15:15: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/linphone.git] repository
+2015-01-18_23:15:15: Fetching remote changes from [git://git.linphone.org/linphone.git]
+2015-01-18_23:15:15: Pushing changes (--mirror) to [git@github.com:Linphone-sync/linphone.git]
+Everything up-to-date
+2015-01-18_23:15:17: [/home/linphone-sync-bot/linphone-sync/linphone.git] mirror has been finished
+2015-01-18_23:15:17: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/linphone-iphone.git] repository
+2015-01-18_23:15:17: Fetching remote changes from [git://git.linphone.org/linphone-iphone.git]
+2015-01-18_23:15:17: Pushing changes (--mirror) to [git@github.com:Linphone-sync/linphone-iphone.git]
+Everything up-to-date
+2015-01-18_23:15:18: [/home/linphone-sync-bot/linphone-sync/linphone-iphone.git] mirror has been finished
+2015-01-18_23:15:18: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/mediastreamer2.git] repository
+2015-01-18_23:15:18: Fetching remote changes from [git://git.linphone.org/mediastreamer2.git]
+2015-01-18_23:15:18: Pushing changes (--mirror) to [git@github.com:Linphone-sync/mediastreamer2.git]
+Everything up-to-date
+2015-01-18_23:15:19: [/home/linphone-sync-bot/linphone-sync/mediastreamer2.git] mirror has been finished
+2015-01-18_23:15:19: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/msamr.git] repository
+2015-01-18_23:15:19: Fetching remote changes from [git://git.linphone.org/msamr.git]
+2015-01-18_23:15:19: Pushing changes (--mirror) to [git@github.com:Linphone-sync/msamr.git]
+Everything up-to-date
+2015-01-18_23:15:20: [/home/linphone-sync-bot/linphone-sync/msamr.git] mirror has been finished
+2015-01-18_23:15:20: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/msilbc.git] repository
+2015-01-18_23:15:20: Fetching remote changes from [git://git.linphone.org/msilbc.git]
+2015-01-18_23:15:20: Pushing changes (--mirror) to [git@github.com:Linphone-sync/msilbc.git]
+Everything up-to-date
+2015-01-18_23:15:21: [/home/linphone-sync-bot/linphone-sync/msilbc.git] mirror has been finished
+2015-01-18_23:15:21: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/msopenh264.git] repository
+2015-01-18_23:15:21: Fetching remote changes from [git://git.linphone.org/msopenh264.git]
+2015-01-18_23:15:22: Pushing changes (--mirror) to [git@github.com:Linphone-sync/msopenh264.git]
+Everything up-to-date
+2015-01-18_23:15:23: [/home/linphone-sync-bot/linphone-sync/msopenh264.git] mirror has been finished
+2015-01-18_23:15:23: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/mssilk.git] repository
+2015-01-18_23:15:23: Fetching remote changes from [git://git.linphone.org/mssilk.git]
+2015-01-18_23:15:23: Pushing changes (--mirror) to [git@github.com:Linphone-sync/mssilk.git]
+Everything up-to-date
+2015-01-18_23:15:24: [/home/linphone-sync-bot/linphone-sync/mssilk.git] mirror has been finished
+2015-01-18_23:15:24: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/mswebrtc.git] repository
+2015-01-18_23:15:24: Fetching remote changes from [git://git.linphone.org/mswebrtc.git]
+2015-01-18_23:15:24: Pushing changes (--mirror) to [git@github.com:Linphone-sync/mswebrtc.git]
+Everything up-to-date
+2015-01-18_23:15:25: [/home/linphone-sync-bot/linphone-sync/mswebrtc.git] mirror has been finished
+2015-01-18_23:15:25: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/msx264.git] repository
+2015-01-18_23:15:25: Fetching remote changes from [git://git.linphone.org/msx264.git]
+2015-01-18_23:15:25: Pushing changes (--mirror) to [git@github.com:Linphone-sync/msx264.git]
+Everything up-to-date
+2015-01-18_23:15:26: [/home/linphone-sync-bot/linphone-sync/msx264.git] mirror has been finished
+2015-01-18_23:15:26: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/ortp.git] repository
+2015-01-18_23:15:26: Fetching remote changes from [git://git.linphone.org/ortp.git]
+2015-01-18_23:15:26: Pushing changes (--mirror) to [git@github.com:Linphone-sync/oRTP.git]
+Everything up-to-date
+2015-01-18_23:15:28: [/home/linphone-sync-bot/linphone-sync/ortp.git] mirror has been finished
+2015-01-18_23:15:28: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/polarssl.git] repository
+2015-01-18_23:15:28: Fetching remote changes from [git://git.linphone.org/polarssl.git]
+2015-01-18_23:15:28: Pushing changes (--mirror) to [git@github.com:Linphone-sync/polarssl.git]
+Everything up-to-date
+2015-01-18_23:15:29: [/home/linphone-sync-bot/linphone-sync/polarssl.git] mirror has been finished
+2015-01-18_23:15:29: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/speex.git] repository
+2015-01-18_23:15:29: Fetching remote changes from [git://git.linphone.org/speex.git]
+2015-01-18_23:15:29: Pushing changes (--mirror) to [git@github.com:Linphone-sync/speex.git]
+Everything up-to-date
+2015-01-18_23:15:30: [/home/linphone-sync-bot/linphone-sync/speex.git] mirror has been finished
+2015-01-18_23:15:30: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/srtp.git] repository
+2015-01-18_23:15:30: Fetching remote changes from [git://git.linphone.org/srtp.git]
+2015-01-18_23:15:30: Pushing changes (--mirror) to [git@github.com:Linphone-sync/srtp.git]
+Everything up-to-date
+2015-01-18_23:15:32: [/home/linphone-sync-bot/linphone-sync/srtp.git] mirror has been finished
+2015-01-18_23:15:32: Starting to mirror changes from [/home/linphone-sync-bot/linphone-sync/webrtc.git] repository
+2015-01-18_23:15:32: Fetching remote changes from [git://git.linphone.org/webrtc.git]
+2015-01-18_23:15:32: Pushing changes (--mirror) to [git@github.com:Linphone-sync/webrtc.git]
+Everything up-to-date
+2015-01-18_23:15:33: [/home/linphone-sync-bot/linphone-sync/webrtc.git] mirror has been finished
+2015-01-18_23:15:33: ===== Changes have been pushed to GitHub successfully =====
