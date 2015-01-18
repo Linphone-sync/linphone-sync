@@ -6,7 +6,7 @@
 LOGFILE=mirror-linphone-repos.log
 
 # run the mirror script and append the log file
-./mirror-linphone-repos.sh >> ${LOGFILE} 2>&1
+./mirror-linphone-repos.sh $1 >> ${LOGFILE} 2>&1
 
 # refresh the local repo
 git pull
