@@ -3,8 +3,6 @@
 # Mirror Linphone source codes from the official upstream repositories to GitHub
 
 DATE=/bin/date
-LOCAL_REPO_PATH=/opt/src/linphone-sync
-
 
 function log {
 DATE_FORMAT=+%Y-%m-%d_%H:%M:%S
@@ -15,6 +13,10 @@ DATE_FORMAT=+%Y-%m-%d_%H:%M:%S
 function die {
 	log "$@"
 	exit 1
+}
+
+function usage {
+	die "Usage: $0 local_linphone_sync_path"
 }
 
 LINPHONE_REPOS=(
@@ -44,6 +46,12 @@ LINPHONE_REPOS=(
 )
 
 
+# Check if first arugment exists (local_linphone_sync_path)
+if [ "$#" -ne 1 ]; then
+	usage
+fi
+
+LOCAL_REPO_PATH=$1
 
 echo "===== Starting to mirror Linphone repositories from the official Belledonne's git servers to GitHub ====="
 
@@ -51,8 +59,13 @@ COUNT=0
 while [ "x${LINPHONE_REPOS[COUNT]}" != "x" ]
 do
 	GITREPO=${LOCAL_REPO_PATH}/${LINPHONE_REPOS[COUNT]}
-	cd ${GITREPO}
 
+	if [ ! -d ${GITREPO} ]; then
+		die "ERROR: directory does not exist: ${GITREPO}"
+	fi
+
+	cd ${GITREPO}
+	
 	REMOTE_ORIGIN_URL=`git config --get remote.origin.url`
 	REMOTE_ORIGIN_PUSHURL=`git config --get remote.origin.pushurl`
 
@@ -60,13 +73,13 @@ do
 	log "Fetching remote changes from [${REMOTE_ORIGIN_URL}]"
 	git fetch -p origin
 	if [ $? -ne 0 ]; then
-		log "git fetch failed."
+		die "ERROR: git fetch failed."
 	fi
 
 	log "Pushing changes (--mirror) to [${REMOTE_ORIGIN_PUSHURL}]"
 	git push --mirror
 	if [ $? -ne 0 ]; then
-		log "git push --mirror failed."
+		die "ERROR: git push --mirror failed."
 	fi
 
 	log "[${GITREPO}] mirror has been finished"
